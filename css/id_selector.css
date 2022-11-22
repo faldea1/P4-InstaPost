@@ -1,0 +1,30 @@
+#seccion1{
+    padding-top: 5px;
+    font-size:smaller;
+}
+
+#seccion2{
+    padding-left: 9px;
+}
+
+.postheader #seccion3{
+    padding-left: 359px;
+}
+
+#content4photo :last-child{
+    padding-top: 0;
+    padding-bottom: 25px;
+}
+
+#content4photo :first-child{
+    padding-top: 10px;
+}
+
+#awesomefonts{
+    padding: 15px;
+}
+
+#awesomefonts :last-child{
+    float: right;
+    padding-right: 15px;
+}
